@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//lexer/Lexer.java=UTF-8
+encoding//lexer/TokenType.java=UTF-8
+encoding//syntax/SyntaxParser.java=UTF-8
